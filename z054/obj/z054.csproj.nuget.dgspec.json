@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dz005\\z054\\z054.csproj": {}
+    "D:\\dz008\\z054\\z054.csproj": {}
   },
   "projects": {
-    "D:\\dz005\\z054\\z054.csproj": {
+    "D:\\dz008\\z054\\z054.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dz005\\z054\\z054.csproj",
+        "projectUniqueName": "D:\\dz008\\z054\\z054.csproj",
         "projectName": "z054",
-        "projectPath": "D:\\dz005\\z054\\z054.csproj",
+        "projectPath": "D:\\dz008\\z054\\z054.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\dz005\\z054\\obj\\",
+        "outputPath": "D:\\dz008\\z054\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
